@@ -6,7 +6,7 @@
 # What is Snapify?
 Snapify converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more.
 
-Website:(https://spiffy.itsvg.in)
+Website:(https://snapify-nikhil.netlify.app/)
 
 ## Our Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsundriya)
