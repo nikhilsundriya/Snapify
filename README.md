@@ -1,9 +1,5 @@
 <div align="center">
  <h1> <img src="https://camo.githubusercontent.com/1abf57ea0614ed4d6d1512ce2084cabad29d912656a7043ff7244307a700d8e0/68747470733a2f2f7370696666792e69747376672e696e2f6c6f676f2e706e67" width="80px"><br/>Snapify - Aesthetic Screenshots</h1>
- [Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/nikhilsundriya)
- [Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://personal-portfolio-nikhil.netlify.app/)
- [Author](https://img.shields.io/badge/Author-Nikhil%20Sundriya-purple.svg)](https://www.instagram.com/nikhil_choudhary25/)
- [Latest Release](https://img.shields.io/badge/Latest%20Release-20%20June%202025-yellow.svg)](https://github.com/nikhilsundriya)
 </div>
 <br/>
 
