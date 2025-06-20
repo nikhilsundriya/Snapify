@@ -8,10 +8,6 @@ Snapify converts your boring screenshots into aesthetic and beautiful screenshot
 
 Website:(https://spiffy.itsvg.in)
 
-## Screenshots
-![](https://user-images.githubusercontent.com/81325730/197831040-12cad0c4-3eec-4170-a350-7233a1c3ab77.png)
-
-
 ## Our Social Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsundriya)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/nikhil_sundriya)
