@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Nabla&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cursive {
+  font-family: "Nabla", cursive;
+}
+
+body {
+  background-color: #ffffff;
+  transition: all ease-in-out 0.2s;
+}
+
+.dark body {
+  background-color: #252728;
+}
+
+.placeholder {
+  background-image: url("/placeholder.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.shadow-parent {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
