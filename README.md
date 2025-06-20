@@ -1,5 +1,5 @@
 <div align="center">
- <h1> <img src="https://spiffy.itsvg.in/logo.png" width="80px"><br/>Spiffy - Aesthetic Screenshots</h1>
+ <h1> <img src="https://camo.githubusercontent.com/1abf57ea0614ed4d6d1512ce2084cabad29d912656a7043ff7244307a700d8e0/68747470733a2f2f7370696666792e69747376672e696e2f6c6f676f2e706e67" width="80px"><br/>Snapify - Aesthetic Screenshots</h1>
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fspiffy.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-Apache-brightgreen?style=normal"/>
