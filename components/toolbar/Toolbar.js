@@ -9,7 +9,6 @@ import Resize from "./tools/resize/Resize";
 import useClipboardImage from "./tools/clipboard/Clipboard";
 import CopyClipboard from "./tools/clipboard/CopyClipboard";
 
-
 export default function Toolbar({ onImageChange, img }) {
   useClipboardImage(onImageChange);
   return (
