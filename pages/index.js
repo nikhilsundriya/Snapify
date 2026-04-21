@@ -8,7 +8,6 @@ import Script from "next/script";
 
 export default function Home() {
   const [img, setImg] = useState();
-
   const onImageChange = (e) => {
     if (e.target.files.length !== 0) {
       const [file] = e.target.files;
